@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في عتمة الليل
+> نار الشوق بتسري في دمي
+> روحي بتناديكي من غير دليل
+> يا ريتك تكوني دايما جنبي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
