@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-benna-hob-mosh-byetnsa/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Ma Benna Hob Mosh Byetnsa](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Ma Benna Hob Mosh Byetnsa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
